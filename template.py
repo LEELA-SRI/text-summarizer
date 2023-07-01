@@ -24,7 +24,7 @@ files = [
     "Dockerfile",
     "requirements.txt" ,
     "setup.py",
-    "research/trails.ipynb",
+    "research/trails.ipynb"
 
 
 ]

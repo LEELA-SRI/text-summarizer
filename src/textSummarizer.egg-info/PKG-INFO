@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/LEELA-SRI/text-summarizer
+Author: LEELA-SRI
+Author-email: leelasric@gmail.com
+Project-URL: Bug Tracker, https://github.com/LEELA-SRI/text-summarizer/issues
+License-File: LICENSE
+
+# text-summarizer
